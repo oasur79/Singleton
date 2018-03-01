@@ -1,0 +1,12 @@
+C:\Users\SiFer\Documents\GitHub\Singleton\singleton\singleton\bin\Debug\singleton.exe.config
+C:\Users\SiFer\Documents\GitHub\Singleton\singleton\singleton\bin\Debug\singleton.exe
+C:\Users\SiFer\Documents\GitHub\Singleton\singleton\singleton\bin\Debug\singleton.pdb
+C:\Users\SiFer\Documents\GitHub\Singleton\singleton\singleton\bin\Debug\singleton.xml
+C:\Users\SiFer\Documents\GitHub\Singleton\singleton\singleton\obj\Debug\singleton.vbprojResolveAssemblyReference.cache
+C:\Users\SiFer\Documents\GitHub\Singleton\singleton\singleton\obj\Debug\singleton.Form1.resources
+C:\Users\SiFer\Documents\GitHub\Singleton\singleton\singleton\obj\Debug\singleton.Resources.resources
+C:\Users\SiFer\Documents\GitHub\Singleton\singleton\singleton\obj\Debug\singleton.vbproj.GenerateResource.Cache
+C:\Users\SiFer\Documents\GitHub\Singleton\singleton\singleton\obj\Debug\singleton.exe
+C:\Users\SiFer\Documents\GitHub\Singleton\singleton\singleton\obj\Debug\singleton.xml
+C:\Users\SiFer\Documents\GitHub\Singleton\singleton\singleton\obj\Debug\singleton.pdb
+C:\Users\SiFer\Documents\GitHub\Singleton\singleton\singleton\obj\Debug\singleton.acercaDe.resources
